@@ -1,0 +1,38 @@
+.about .content{
+    display: contents;
+}
+.end .links {
+    margin: 50px;
+    margin-left: 123px;
+}
+.end {
+    margin-left: 0;
+    justify-content: center;
+    align-items: center;
+    display: grid;
+}
+.howuse .use img{
+    display: none;
+}
+.end .logoend img {
+    height: 222px;
+    margin-left: 40px;
+}
+.howuse .second {
+    padding: 31px;
+    margin: 12px;
+}
+.howuse .use{
+    margin: 12px;
+}
+.about .content img {
+    width: 100%;
+    height: 60vh;
+    margin: 0px;
+}
+.end p{
+    text-align: center;
+}
+.end .links a{
+    margin-left: -1vh;
+}

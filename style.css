@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt&family=Rammetto+One&family=Rubik+Vinyl&display=swap');
+html{
+    scroll-behavior: smooth;
+}
+.about{
+    margin-top: 10vh;
+    justify-content: center;
+    background-color:black;;
+}
+.about h2{
+    font-size: 80px;
+    font-family: 'Prompt', sans-serif;
+    text-align: center;
+    color: white;
+}
+.about .content p {
+    font-family: 'Prompt', sans-serif;
+    max-width: 895px;
+    font-size: 34px;
+    padding: 22px;
+    color: white;
+}
+.about .content a{
+    color: brown;
+    font-family: auto;
+}
+.about .content a:hover{
+    color: red;
+}
+.about .content{
+    display: flex;
+}
+.about .content img{
+    height: 48vh;
+}
+.howuse{
+    align-items: center;
+    justify-content: center;
+}
+.howuse h2 {
+    text-align: center;
+    font-size: 66px;
+    font-family: 'Prompt', sans-serif;
+    color: black;
+    text-transform: capitalize;
+    font-weight: 600;
+}
+.howuse p {
+    font-size: 24px;
+    font-family: 'Prompt', sans-serif;
+    color: white;
+}
+.howuse .use {
+    display: flex;
+    padding: 33px;
+    border: 2px solid;
+    margin: 58px;
+    background-color: #008060;
+    border-radius: 20px;
+}
+.howuse .use img{
+    height: 80px;
+    border-radius: 7px;
+}
+.howuse .second{
+    display: flex;
+    padding: 50px;
+    border: 2px solid;
+    margin: 58px;
+    background-color: #008060;
+    border-radius: 20px;
+}
+.logo {
+    height: 30px;
+    border-radius: 7px;
+    margin: 8px;
+}
+.end{
+    margin-left: 10vh;
+    display: flex;
+}
+.end .logoend img{
+    height: 130px;
+    border-radius: 100%;
+}
+.end p{
+    color: #6c757d!important;
+    max-width: 300px;
+    font-family: 'Prompt', sans-serif;
+}
+.end .links {
+    margin: 54px;
+    margin-left: 179px;
+}
+.end .links a{
+    text-decoration: none;
+    color: rgb(59, 48, 48);
+    display: block;
+    margin: 11px;
+    box-sizing: border-box;
+}
+.end .links a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+.end .links h4{
+    font-family: revert;
+}
